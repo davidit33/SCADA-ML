@@ -11,6 +11,6 @@ One of the questions I get is: Why did the model perform so well :man_shrugging:
 
 :man_technologist: You can see the notebook here: [Kaggle](https://www.kaggle.com/victorzeland/scada-cybersegurity) 
 
-Please **contact** me and help me learn :star:, give me your conclusions about this Notebook.
-[Contact](https://davidtamayo.netlify.app/)
+Please [contact me](https://davidtamayo.netlify.app/) and help me learn :star:, give me your conclusions about this Notebook.
+
  
