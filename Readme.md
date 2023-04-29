@@ -5,10 +5,13 @@ As part of my studies :student:, I tried to replicate the same experiment shown 
 The results obtained in my Notebook were very similar to those of the researchers :muscle:, for: the algorithms: Decision Tree, Random Forest and Logistic Regression, however the results for Naives Bayes are not included because the accuracy obtained was much lower.
 
 There are some points in the article that I disagree with, and they are:
+
 Such a high accuracy was achieved using this last algorithm.
-Why the KNN algorithm was used in a dataset without previously applying feature scaling ?
+
+Why the KNN algorithm was used in a dataset without previously applying feature scaling ?.
+
 It is mentioned in the article that "As shown in Table 5, our dataset is unbalanced. Therefore, accuracy is not the ideal measure to evaluate performance [33]", which I totally agree, that's why in my notebook I used "f1_score" as a metric to evaluate the accuracy of my model, however in Figure 8, it is not clear to me if an evaluation metric was used that take into account the imbalance in the dataset. :man_shrugging:
-One of the questions I get is: Why did the model perform so well :man_shrugging:? 
+One of the questions I get is: Why did the model perform so well :man_shrugging: ?.
 
 
 :man_technologist: You can see the notebook here: [Kaggle](https://www.kaggle.com/victorzeland/scada-cybersegurity) 
