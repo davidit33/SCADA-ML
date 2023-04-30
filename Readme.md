@@ -1,6 +1,6 @@
 # Divergent Results in Replicating 'SCADA System Testbed for Cybersecurity Research Using Machine Learning Approach'
 
-As a student, I attempted to replicate the experiment presented in the article [the article](https://arxiv.org/abs/1904.00753) titled "SCADA System Testbed for Cybersecurity Research Using Machine Learning Approach," published in 2018. While I found that the results for the algorithms Decision Tree, Random Forest, and Logistic Regression were similar to those reported by the researchers, the accuracy obtained for Naive Bayes was significantly lower, which is why it was not included.
+As a student, I attempted to replicate the experiment presented in [the article](https://arxiv.org/abs/1904.00753) titled "SCADA System Testbed for Cybersecurity Research Using Machine Learning Approach," published in 2018. While I found that the results for the algorithms Decision Tree, Random Forest, and Logistic Regression were similar to those reported by the researchers, the accuracy obtained for Naive Bayes was significantly lower, which is why it was not included.
 
 Additionally, I found it puzzling that the KNN algorithm was used in a dataset without feature scaling.
 
